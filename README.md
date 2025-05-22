@@ -7,4 +7,4 @@
 🌱 BitLearn is a small coding project for new users to learn to code!
 
 Attributions:
-* Awicon, Maintenence Icon Image
+* Awicon, Icon Images
